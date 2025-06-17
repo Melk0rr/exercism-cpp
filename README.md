@@ -6,15 +6,8 @@ My exercism.org C++ exercises
 
 | Easy | Medium | Hard |
 | --------------- | --------------- | --------------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| |  |  |
+| [hello-world](./hello-world/)  |  |  |
+
 
 
 ## Concepts
