@@ -1,0 +1,13 @@
+.exercism/
+test-framework/
+CMakeFiles/
+test/
+
+HELP.md
+tests.out
+test_*.c
+makefile
+Makefile
+CMakeCache.txt
+CMakeLists.txt
+cmake_install.cmake
